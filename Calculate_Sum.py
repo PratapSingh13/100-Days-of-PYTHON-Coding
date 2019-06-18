@@ -1,3 +1,5 @@
+#Function Definition in PYTHON
+#Function Implementation in PYTHON
 def calculate_sum(data1, data2):
     #All the statements in the block of code must have the same level of indentation
     result_sum=data1+data2
