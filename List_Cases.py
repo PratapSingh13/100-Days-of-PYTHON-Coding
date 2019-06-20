@@ -10,3 +10,12 @@ print("Iterating the list using range()")
 print("Iterating the list using keyword in")
      for airline in list_of_airlines:
          print(airline)
+     
+#Finding the Element in the List
+list_of_airlines=["AI","EM","BA","SJ","JA","AA"]
+airline="AI"
+if airline in list_of_airline
+   print("Airline Found")
+else:
+   print("Airline not Found")
+     
