@@ -19,3 +19,11 @@ if airline in list_of_airline
 else:
    print("Airline not Found")
      
+#Slicing of List-Way-1
+list_of_airlines=["AI","EM","BA","SJ","JA","AA"]
+len(list_of_airlines)
+   print("AirLines from 1st to 3rd is:",list_of_airlines[1:4])
+     
+#Slicing of List Way-2
+list_of_airlines=["AI","EM","BA","SJ","JA","AA"]
+list_of_airlines[len(list_of_airline)-2]
